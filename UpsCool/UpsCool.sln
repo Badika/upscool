@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpsCool.Web", "UpsCool\UpsCool.Web.csproj", "{88B28F62-469B-4892-83D0-BC0A87A20E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpsCool.Models", "UpsCool.Models\UpsCool.Models.csproj", "{E7B2E11C-71A9-491B-84A2-085F0D084C5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B28F62-469B-4892-83D0-BC0A87A20E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B28F62-469B-4892-83D0-BC0A87A20E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B28F62-469B-4892-83D0-BC0A87A20E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B28F62-469B-4892-83D0-BC0A87A20E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B2E11C-71A9-491B-84A2-085F0D084C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B2E11C-71A9-491B-84A2-085F0D084C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B2E11C-71A9-491B-84A2-085F0D084C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B2E11C-71A9-491B-84A2-085F0D084C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A5E47C-782F-4DBA-AD13-CA20C3390F19}
+	EndGlobalSection
+EndGlobal
